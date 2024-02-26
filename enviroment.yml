@@ -1,0 +1,9 @@
+name: my_environment
+channels:
+  - defaults
+dependencies:
+  - python=3.8  # replace with your desired Python version
+  - requests
+  - pandas
+  - csv  # This is not necessary but included for completeness
+  - datetime  # This is not necessary but included for completeness
