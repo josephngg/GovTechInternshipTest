@@ -6,15 +6,17 @@ To set up the enviroment, please create a virtual enviroment using the .yml file
 Create a new enviroment<br>
 ```
 conda env create -f environment.yml
-```<br>
+```
+<br>
 
 
 Activate the virtual enviroment<br>
 ```
 conda activate my_environment
-```<br>
+```
+<br>
 
-Install any additional requirements in case the above did not install it<br>s
+Install any additional requirements in case the above did not install it<br>
 ```
 pip install -r requirements.txt
 ```
